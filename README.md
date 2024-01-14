@@ -1,11 +1,11 @@
 👋 Hi there, my name is Sapana (Sapna Taneja).
 
-👋 I'm a Data & Analytics Engineer
+👋 I'm a Data Analyst
 
-👀 I'm interested in Data Analytics and Engineering
+👀 I'm interested in Data Analysis.
 
-🌱Dedicated to crafting Data Solutions with an emphasis on scalable data architectures. I specialize in implementing robust data pipelines, designing efficient databases, and creating analytics solutions to meet the unique needs of businesses.
+🌱 I like to do comprehensive data analysis to extract valuable insights and inform strategic decision-making for business improvement.
 
-🎥 When I'm not coding, I'm listening to music, watching interesting and fun youtube videos on my favourite youtube channels, reading books or playing bedminton. 
+🎥 When I'm not coding, I'm listening to music, watching interesting valuable and funy videos, reading books, playing bedminton,running and doing meditation. 
 
-💞️ I am available for Data Analytics and Data Engineer roles. Kindly reach out to me via Linkedin.
+💞️ I am available for Data Analyst Role. Kindly reach out to me via Linkedin.
